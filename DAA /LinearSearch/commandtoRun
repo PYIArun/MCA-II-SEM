@@ -1,0 +1,2 @@
+compile: g++ LinearSearch.cpp -o LinearSearch -I/home/arun/matplotlibcpp -I/usr/include/python3.13 -lpython3.13 -Wno-deprecated-declarations
+run: ./LinearSearch
